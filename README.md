@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Sparkon as Freelance Frontend developer**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **Nextjs 14**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mrbilaltariq/](https://www.linkedin.com/in/mrbilaltariq/)
 
