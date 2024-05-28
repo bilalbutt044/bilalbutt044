@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working at **Sparkon as Freelance Frontend developer**
+- 🔭 I’m currently working at **Sparkon as Frontend developer**
 
 - 🌱 I’m currently learning **Nextjs 14**
 
